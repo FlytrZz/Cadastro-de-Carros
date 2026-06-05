@@ -1,1 +1,13 @@
-/bin/
+# Arquivos compilados
+*.class
+
+# Pasta de build
+bin/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
